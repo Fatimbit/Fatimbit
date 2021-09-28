@@ -11,19 +11,32 @@ I am a 3rd year student at University of Ottawa studying Software Engineering (w
 
 Here are some of the languages and tech I'm experienced with!
 
-![Java](java.png) Java
-![Python](python.png) Python
-![JavaScript](javascript.png) JavaScript
-![HTML](html.png) HTML
-![CSS](css.png) CSS
-![SQL](sql.png) SQL
-![C](c.png) C  
-![Elixir](elixir.png) Elixir    
+![Java](java.png)
+Java
+![Python](python.png)
+Python
+![JavaScript](javascript.png)
+JavaScript
+![HTML](html.png)
+HTML
+![CSS](css.png)
+CSS
+![SQL](sql.png)
+SQL
+![C](c.png)
+C  
+![Elixir](elixir.png)
+Elixir    
 
-![Linux](linux.png) Linux
-![Windows](windows.png) Windows
-![Android Studio](androidstudio.png) Android Studio
-![PowerBI](powerbi.png) PowerBI
+![Linux](linux.png)
+Linux
+![Windows](windows.png)
+Windows
+![Android Studio](androidstudio.png)
+Android Studio
+![PowerBI](powerbi.png)
+PowerBI
+
 
 
 
