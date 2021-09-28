@@ -1,6 +1,6 @@
 ## Hello, I'm Fatimah!
 
-_ _ (Fatimah + timbit = Fatimbit) _ _
+_(Fatimah + timbit = Fatimbit)_
 
 ### About me:
 
