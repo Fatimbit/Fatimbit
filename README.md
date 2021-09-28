@@ -10,21 +10,13 @@ I am a 3rd year student at University of Ottawa studying Software Engineering (w
 ### coding coding coding...
 
 Here are some of the languages and tech I'm experienced with!
-
-![Java](java.png)Java
-![Python](python.png) Python
-![JavaScript](javascript.png) JavaScript
-![HTML](html.png) HTML
-![CSS](css.png) CSS
-![SQL](sql.png) SQL
-![C](c.png) C
-![Elixir](elixir.png) Elixir 
-![Linux](linux.png) Linux
-![Windows](windows.png) Windows
-![Android Studio](androidstudio.png) Android Studio
-![PowerBI](powerbi.png) PowerBI
-
-
+  
+|    |    |    |    |    |    |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+|![Java](java.png)|![Python](python.png)|![JavaScript](javascript.png)|![HTML](html.png)|![CSS](css.png)|![C](c.png)|
+|Java|Python|JavaScript|HTML|CSS|C|
+|![SQL](sql.png)|![Elixir](elixir.png)|![Linux](linux.png)|![Windows](windows.png)|![Android Studio](androidstudio.png)|![PowerBI](powerbi.png)|
+|SQL|Elixir|Linux|Windows|Android Studio|Power BI|  
 
 
 ### my interests
