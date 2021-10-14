@@ -11,12 +11,12 @@ I am a 3rd year student at University of Ottawa studying Software Engineering (w
 
 Here are some of the languages and tech I'm experienced with!
 
-|    |    |    |    |    |    |    |    |
-| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-|![Java](java.png)|![Python](python.png)|![JavaScript](javascript.png)|![SQL](sql.png)|![HTML](html.png)|![CSS](css.png)|![C](c.png)|![React](react.png)|
-|Java|Python|JavaScript|SQL|HTML|CSS|C|React|
-|![Android Studio](androidstudio.png)|![Linux](linux.png)|![Windows](windows.png)|![Visual Studio](visualstudio.png)|![Arduino](arduino.png)|![Firebase](firebase.png)|![PowerBI](powerbi.png)|![Elixir](elixir.png)|
-|Android Studio|Linux|Windows|Visual Studio|Arduino|Firebase|Power BI|Elixir|
+|    |    |    |    |    |    |    |    |    |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+|![Java](java.png)|![Python](python.png)|![HTML](html.png)|![CSS](css.png)|![JavaScript](javascript.png)|![SQL](sql.png)|![C++](cpp.png)|![C](c.png)|![React](react.png)|
+|Java|Python|HTML|CSS|JavaScript|SQL|C++|C|React|
+|![Android Studio](androidstudio.png)|![Linux](linux.png)|![Windows](windows.png)|![Unity](unity.png)|![Visual Studio](visualstudio.png)|![Arduino](arduino.png)|![Firebase](firebase.png)|![PowerBI](powerbi.png)|![Elixir](elixir.png)|
+|Android Studio|Linux|Windows|Unity|Visual Studio|Arduino|Firebase|Power BI|Elixir|
 
 
 ### my interests
