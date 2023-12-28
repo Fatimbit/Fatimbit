@@ -4,7 +4,7 @@ _(Fatimah + timbit = Fatimbit)_
 
 ### about me:
 
-I am a 4th year student at University of Ottawa studying Software Engineering (we may have met at the Faculty of Engineering's Ceremony of Excellence!). I enjoy web development, app development, game development, and design. I have a lot of experience leading and collaborating on group projects, as well as completing projects individually.
+I am a recent graduate of the University of Ottawa studying Software Engineering (we may have met at the Faculty of Engineering's Ceremony of Excellence!). I enjoy web development, app development, game development, and design. I have a lot of experience leading and collaborating on group projects, as well as completing projects individually.
 
 
 ### coding coding coding...
