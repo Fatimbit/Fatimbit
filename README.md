@@ -4,7 +4,8 @@ _(Fatimah + timbit = Fatimbit)_
 
 ### about me:
 
-I am a new graduate in Software Engineering from the University of Ottawa (we may have met at the Faculty of Engineering's Ceremony of Excellence!). I enjoy game development, back-end development, and UX design, among many other things. I have previous work experience in both software development and software quality assurance from roles at Nokia, Communications Research Centre Canada, and Statcan. I am very passionate about giving back to my community through my work in the tech industry and have extensive experience working as a design director and project manager within nonprofit organizations.
+I am a new graduate in Software Engineering from the University of Ottawa (we may have met at the Faculty of Engineering's Ceremony of Excellence!). I graduated with honours and am a recipient of multiple awards including the Association of Public Sector Information Professionals (DPI) Awards, the Nortel Founding Scholarship for the School of Information Technology and Engineering (SITE) - (OSOTF), and the Wynn Quon Admission Scholarship in Software Engineering. I enjoy game development, back-end development, and UX design, among many other things. I have previous work experience in both software development and software quality assurance from roles at Nokia, Communications Research Centre Canada, and Statcan. I am very passionate about giving back to my community through my work in the tech industry and have extensive experience working as a design director and project manager within nonprofit organizations.
+
 
 ### contact me:
 
