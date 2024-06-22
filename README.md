@@ -4,7 +4,7 @@ _(Fatimah + timbit = Fatimbit)_
 
 ### about me:
 
-I am a new graduate in Software Engineering from the University of Ottawa (we may have met at the Faculty of Engineering's Ceremony of Excellence!). I enjoy web development, app development, game development, and design. I have a lot of experience leading and collaborating on group projects, as well as completing projects individually.
+I am a new graduate in Software Engineering from the University of Ottawa (we may have met at the Faculty of Engineering's Ceremony of Excellence!). I enjoy game development, back-end development, and UX design, among many other things. I have previous work experience in both software development and software quality assurance, as well as extensive experience as a design director and project manager within nonprofit organizations.
 
 
 ### coding coding coding...
