@@ -27,6 +27,6 @@ Here are some of the languages and tech I'm experienced with!
 
 Some of my other interests include:
 
-![Robot](bt21-van.png) Robots that don't look like they want to kill you  
-![Space](space.png) Outer space   
+![Robot](bt21-van.png) robots that don't look like they want to kill you  
+![Space](space.png) outer space   
 ![Video Games](videogames.png) and Zelda games!
