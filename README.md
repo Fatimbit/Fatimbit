@@ -4,7 +4,7 @@ _(Fatimah + timbit = Fatimbit)_
 
 ### about me:
 
-I am an engineer currently getting a Master's in Computer Science specializing in Artificial Intelligence. 
+I am an engineer currently getting a Master's in Computer Science and Concentration Applied Artificial Intelligence. 
 
 I graduated with honours in 2024 with a BASc in **Software Engineering** from the University of Ottawa. I am a recipient of multiple awards (we may have met at the Faculty of Engineering's Ceremony of Excellence!) including the Association of Public Sector Information Professionals (DPI) Awards, the Nortel Founding Scholarship for the School of Information Technology and Engineering (SITE) - (OSOTF), and the Wynn Quon Admission Scholarship in Software Engineering. 
 
