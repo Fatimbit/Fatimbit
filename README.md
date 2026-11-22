@@ -1,7 +1,5 @@
 ## Hello, I'm Fatimah!
 
-_(Fatimah + timbit = Fatimbit)_
-
 ### about me:
 
 I am an engineer currently getting a Master's in Computer Science and Concentration Applied Artificial Intelligence. 
